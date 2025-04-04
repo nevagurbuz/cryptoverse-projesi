@@ -50,5 +50,4 @@ Let me know if you'd like to add screenshots, GitHub link, or any specific secti
 
 ## Screenshot
 
-[](Animation.gif)
-
+![](Animation.gif)
